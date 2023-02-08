@@ -1,0 +1,3972 @@
+fileFormatVersion: 2
+guid: 8fe7c411623b4b248b59f3290744b4fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4844853337003979048
+    second: tileset naturaleza_0
+  - first:
+      213: 4743202063195481181
+    second: tileset naturaleza_1
+  - first:
+      213: 4816775908799684426
+    second: tileset naturaleza_2
+  - first:
+      213: -8924174071717051257
+    second: tileset naturaleza_3
+  - first:
+      213: -7465557734931479642
+    second: tileset naturaleza_4
+  - first:
+      213: -6723899964388335879
+    second: tileset naturaleza_5
+  - first:
+      213: 4969749645048856591
+    second: tileset naturaleza_6
+  - first:
+      213: 7347468451154433795
+    second: tileset naturaleza_7
+  - first:
+      213: -3524818219396896659
+    second: tileset naturaleza_8
+  - first:
+      213: -3493474954283031060
+    second: tileset naturaleza_9
+  - first:
+      213: -6558559557290583789
+    second: tileset naturaleza_10
+  - first:
+      213: 1022899361501769771
+    second: tileset naturaleza_11
+  - first:
+      213: 8789627872856040409
+    second: tileset naturaleza_12
+  - first:
+      213: 6582886012849771638
+    second: tileset naturaleza_13
+  - first:
+      213: -3141016002449512646
+    second: tileset naturaleza_14
+  - first:
+      213: -506260464976874385
+    second: tileset naturaleza_15
+  - first:
+      213: 3387659556012254670
+    second: tileset naturaleza_16
+  - first:
+      213: -5752576384072109016
+    second: tileset naturaleza_17
+  - first:
+      213: -7255369095220671067
+    second: tileset naturaleza_18
+  - first:
+      213: -7335837543679940685
+    second: tileset naturaleza_19
+  - first:
+      213: -3332277746149640489
+    second: tileset naturaleza_20
+  - first:
+      213: 3397071293022569829
+    second: tileset naturaleza_21
+  - first:
+      213: 3424888574952588902
+    second: tileset naturaleza_22
+  - first:
+      213: 7683092658438324586
+    second: tileset naturaleza_23
+  - first:
+      213: 2493878648910197352
+    second: tileset naturaleza_24
+  - first:
+      213: 8117246774258970211
+    second: tileset naturaleza_25
+  - first:
+      213: -1487444656806965877
+    second: tileset naturaleza_26
+  - first:
+      213: 5823325529542540303
+    second: tileset naturaleza_27
+  - first:
+      213: -8560304810824766202
+    second: tileset naturaleza_28
+  - first:
+      213: 8704765903354274102
+    second: tileset naturaleza_29
+  - first:
+      213: -6283262334166296680
+    second: tileset naturaleza_30
+  - first:
+      213: 6321627462871255764
+    second: tileset naturaleza_31
+  - first:
+      213: 2901737795689608294
+    second: tileset naturaleza_32
+  - first:
+      213: 561245270938575052
+    second: tileset naturaleza_33
+  - first:
+      213: 4317269090844365308
+    second: tileset naturaleza_34
+  - first:
+      213: 247894120642523774
+    second: tileset naturaleza_35
+  - first:
+      213: 454229414221240588
+    second: tileset naturaleza_36
+  - first:
+      213: 8456152236427851061
+    second: tileset naturaleza_37
+  - first:
+      213: 5326000078887657821
+    second: tileset naturaleza_38
+  - first:
+      213: -3681495002566860881
+    second: tileset naturaleza_39
+  - first:
+      213: 432189157943258209
+    second: tileset naturaleza_40
+  - first:
+      213: 7185161660500919199
+    second: tileset naturaleza_41
+  - first:
+      213: -1638075661868394989
+    second: tileset naturaleza_42
+  - first:
+      213: 582061618544127672
+    second: tileset naturaleza_43
+  - first:
+      213: -3537959758264096479
+    second: tileset naturaleza_44
+  - first:
+      213: 2929351131051456113
+    second: tileset naturaleza_45
+  - first:
+      213: 348880491075428235
+    second: tileset naturaleza_46
+  - first:
+      213: 4182508134844285440
+    second: tileset naturaleza_47
+  - first:
+      213: -8216342846123927522
+    second: tileset naturaleza_48
+  - first:
+      213: -3556806226260568345
+    second: tileset naturaleza_49
+  - first:
+      213: 14637174688177101
+    second: tileset naturaleza_50
+  - first:
+      213: 6418031683989594015
+    second: tileset naturaleza_51
+  - first:
+      213: 600321938567870949
+    second: tileset naturaleza_52
+  - first:
+      213: 6421204423707966025
+    second: tileset naturaleza_53
+  - first:
+      213: -7719752960677347145
+    second: tileset naturaleza_54
+  - first:
+      213: -830814793716157175
+    second: tileset naturaleza_55
+  - first:
+      213: 7341960115173911675
+    second: tileset naturaleza_56
+  - first:
+      213: -7924488036185764205
+    second: tileset naturaleza_57
+  - first:
+      213: 7635517595144329252
+    second: tileset naturaleza_58
+  - first:
+      213: -8584876324949224708
+    second: tileset naturaleza_59
+  - first:
+      213: 2304591417245339608
+    second: tileset naturaleza_60
+  - first:
+      213: -1661769140200980217
+    second: tileset naturaleza_61
+  - first:
+      213: -9098451851740993889
+    second: tileset naturaleza_62
+  - first:
+      213: 7718654856678612797
+    second: tileset naturaleza_63
+  - first:
+      213: -1430228059083581477
+    second: tileset naturaleza_64
+  - first:
+      213: 7545425296803758745
+    second: tileset naturaleza_65
+  - first:
+      213: 8143236015073804802
+    second: tileset naturaleza_66
+  - first:
+      213: 5446897805936664666
+    second: tileset naturaleza_67
+  - first:
+      213: 5476146706977588935
+    second: tileset naturaleza_68
+  - first:
+      213: 4327327574547133990
+    second: tileset naturaleza_69
+  - first:
+      213: -3544988887686841437
+    second: tileset naturaleza_70
+  - first:
+      213: -2684304949712894310
+    second: tileset naturaleza_71
+  - first:
+      213: 2365054743569201969
+    second: tileset naturaleza_72
+  - first:
+      213: 3188107566650198939
+    second: tileset naturaleza_73
+  - first:
+      213: -201982675462330214
+    second: tileset naturaleza_74
+  - first:
+      213: -7884274485781749605
+    second: tileset naturaleza_75
+  - first:
+      213: -2783271885519532937
+    second: tileset naturaleza_76
+  - first:
+      213: -6056733572596768996
+    second: tileset naturaleza_77
+  - first:
+      213: -3956874172480260205
+    second: tileset naturaleza_78
+  - first:
+      213: -3620730957350276607
+    second: tileset naturaleza_79
+  - first:
+      213: 7838174171034377760
+    second: tileset naturaleza_80
+  - first:
+      213: -824841616322160606
+    second: tileset naturaleza_81
+  - first:
+      213: -654551396836839074
+    second: tileset naturaleza_82
+  - first:
+      213: 9195079340394580715
+    second: tileset naturaleza_83
+  - first:
+      213: -7468072662611449155
+    second: tileset naturaleza_84
+  - first:
+      213: 1246007174253896760
+    second: tileset naturaleza_85
+  - first:
+      213: 1740662322115796263
+    second: tileset naturaleza_86
+  - first:
+      213: 4792955159757679911
+    second: tileset naturaleza_87
+  - first:
+      213: 56939556232283662
+    second: tileset naturaleza_88
+  - first:
+      213: 8225757603280970878
+    second: tileset naturaleza_89
+  - first:
+      213: -4073971482062419988
+    second: tileset naturaleza_90
+  - first:
+      213: -2709299785169105656
+    second: tileset naturaleza_91
+  - first:
+      213: -423398041728584873
+    second: tileset naturaleza_92
+  - first:
+      213: -6893611959432986404
+    second: tileset naturaleza_93
+  - first:
+      213: -6840141834018616442
+    second: tileset naturaleza_94
+  - first:
+      213: -479856401184170043
+    second: tileset naturaleza_95
+  - first:
+      213: -4345190317969464092
+    second: tileset naturaleza_96
+  - first:
+      213: 8862897968805501215
+    second: tileset naturaleza_97
+  - first:
+      213: -8948972652428176556
+    second: tileset naturaleza_98
+  - first:
+      213: 550196056484886936
+    second: tileset naturaleza_99
+  - first:
+      213: 1844254309457918148
+    second: tileset naturaleza_100
+  - first:
+      213: 239510938825743119
+    second: tileset naturaleza_101
+  - first:
+      213: 4260412654392777548
+    second: tileset naturaleza_102
+  - first:
+      213: -4957315340194575484
+    second: tileset naturaleza_103
+  - first:
+      213: -2496795104073368755
+    second: tileset naturaleza_104
+  - first:
+      213: -4279871462738393277
+    second: tileset naturaleza_105
+  - first:
+      213: -6158087858939988660
+    second: tileset naturaleza_106
+  - first:
+      213: 8818844679054995316
+    second: tileset naturaleza_107
+  - first:
+      213: -2831927393023706597
+    second: tileset naturaleza_108
+  - first:
+      213: 8415797678032734383
+    second: tileset naturaleza_109
+  - first:
+      213: 5199793187842921303
+    second: tileset naturaleza_110
+  - first:
+      213: 2367609308226992414
+    second: tileset naturaleza_111
+  - first:
+      213: 6423540302058608339
+    second: tileset naturaleza_112
+  - first:
+      213: -5389048308621630324
+    second: tileset naturaleza_113
+  - first:
+      213: 6701305776149153220
+    second: tileset naturaleza_114
+  - first:
+      213: -8889274617580042052
+    second: tileset naturaleza_115
+  - first:
+      213: -8240787757912964395
+    second: tileset naturaleza_116
+  - first:
+      213: 5240891782475579048
+    second: tileset naturaleza_117
+  - first:
+      213: -6894865930235620526
+    second: tileset naturaleza_118
+  - first:
+      213: -7081677796809872078
+    second: tileset naturaleza_119
+  - first:
+      213: -7631921160430276468
+    second: tileset naturaleza_120
+  - first:
+      213: 4959793214459061153
+    second: tileset naturaleza_121
+  - first:
+      213: -7196314810648269512
+    second: tileset naturaleza_122
+  - first:
+      213: 7067206123918722525
+    second: tileset naturaleza_123
+  - first:
+      213: 5394968072712821692
+    second: tileset naturaleza_124
+  - first:
+      213: 6536319145146997781
+    second: tileset naturaleza_125
+  - first:
+      213: 1913156314210184874
+    second: tileset naturaleza_126
+  - first:
+      213: 5328683821084916549
+    second: tileset naturaleza_127
+  - first:
+      213: 2048215893310067068
+    second: tileset naturaleza_128
+  - first:
+      213: 4201050786636850621
+    second: tileset naturaleza_129
+  - first:
+      213: 4784127748539608975
+    second: tileset naturaleza_130
+  - first:
+      213: -4622697250938308057
+    second: tileset naturaleza_131
+  - first:
+      213: -7813074741717377242
+    second: tileset naturaleza_132
+  - first:
+      213: -2898440486882618314
+    second: tileset naturaleza_133
+  - first:
+      213: -4857809455050002103
+    second: tileset naturaleza_134
+  - first:
+      213: 7955341152744939714
+    second: tileset naturaleza_135
+  - first:
+      213: 7180579897241894383
+    second: tileset naturaleza_136
+  - first:
+      213: -580380742819962308
+    second: tileset naturaleza_137
+  - first:
+      213: -5622145715739636909
+    second: tileset naturaleza_138
+  - first:
+      213: 5329061091481803882
+    second: tileset naturaleza_139
+  - first:
+      213: 8991411908707985331
+    second: tileset naturaleza_140
+  - first:
+      213: -7539802102421182681
+    second: tileset naturaleza_141
+  - first:
+      213: 5046555725459382778
+    second: tileset naturaleza_142
+  - first:
+      213: 3245895365999732278
+    second: tileset naturaleza_143
+  - first:
+      213: -3561258054947185746
+    second: tileset naturaleza_144
+  - first:
+      213: 3710988015856419633
+    second: tileset naturaleza_145
+  - first:
+      213: -6608018511064362293
+    second: tileset naturaleza_146
+  - first:
+      213: -3897622251016487008
+    second: tileset naturaleza_147
+  - first:
+      213: 7419421889891211921
+    second: tileset naturaleza_148
+  - first:
+      213: 4621006248871854071
+    second: tileset naturaleza_149
+  - first:
+      213: 4526146088836784580
+    second: tileset naturaleza_150
+  - first:
+      213: -5635259867773934128
+    second: tileset naturaleza_151
+  - first:
+      213: -8859614474685181451
+    second: tileset naturaleza_152
+  - first:
+      213: 4155838765571797017
+    second: tileset naturaleza_153
+  - first:
+      213: -7032222240054498129
+    second: tileset naturaleza_154
+  - first:
+      213: -3418773691576589046
+    second: tileset naturaleza_155
+  - first:
+      213: 7379621373353344733
+    second: tileset naturaleza_156
+  - first:
+      213: 7948817086874405382
+    second: tileset naturaleza_157
+  - first:
+      213: 2768120950088296232
+    second: tileset naturaleza_158
+  - first:
+      213: 450484961362097117
+    second: tileset naturaleza_159
+  - first:
+      213: -7242831595492642276
+    second: tileset naturaleza_160
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset naturaleza_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 489
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821fcfcd0706c3340800000000000000
+      internalID: 4844853337003979048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 487
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54aaaa552d33d140800000000000000
+      internalID: 4743202063195481181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 486
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f1aae2b20a8d240800000000000000
+      internalID: 4816775908799684426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 487
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784cd8dc6f6f62480800000000000000
+      internalID: -8924174071717051257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 487
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a34d375bc2056890800000000000000
+      internalID: -7465557734931479642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 484
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe1f5d6b98efa2a0800000000000000
+      internalID: -6723899964388335879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 486
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00c2c7a8f818f440800000000000000
+      internalID: 4969749645048856591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 485
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3071375b0a377f560800000000000000
+      internalID: 7347468451154433795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 484
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e5073184551fc0800000000000000
+      internalID: -3524818219396896659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 487
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce56c3ec90fa48fc0800000000000000
+      internalID: -3493474954283031060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 482
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3199375d4d05bf4a0800000000000000
+      internalID: -6558559557290583789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 482
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20794bbc81123e00800000000000000
+      internalID: 1022899361501769771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 455
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3e47d1bf70bf970800000000000000
+      internalID: 8789627872856040409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 453
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6745cc873fb1b5b50800000000000000
+      internalID: 6582886012849771638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 452
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ed2c669ed864d0800000000000000
+      internalID: -3141016002449512646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 453
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ba351ac669f8f0800000000000000
+      internalID: -506260464976874385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 450
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec56118ea62630f20800000000000000
+      internalID: 3387659556012254670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 450
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824b414d14eba20b0800000000000000
+      internalID: -5752576384072109016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 452
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad460d9f30cf4b90800000000000000
+      internalID: -7255369095220671067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 450
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7abf6fe9ed13a90800000000000000
+      internalID: -7335837543679940685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 448
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6bfc78b0f51c1d0800000000000000
+      internalID: -3332277746149640489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 453
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5658941b752d42f20800000000000000
+      internalID: 3397071293022569829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_22
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 450
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666c7595306a78f20800000000000000
+      internalID: 3424888574952588902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_23
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 448
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c0aae014df9a60800000000000000
+      internalID: 7683092658438324586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 422
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86239350b690c9220800000000000000
+      internalID: 2493878648910197352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 418
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e24e52fe046a070800000000000000
+      internalID: 8117246774258970211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 417
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dc7f727f88b5be0800000000000000
+      internalID: -1487444656806965877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 422
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cb8df37bb90d050800000000000000
+      internalID: 5823325529542540303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 420
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60de8b50120b33980800000000000000
+      internalID: -8560304810824766202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 418
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6312d52287a8dc870800000000000000
+      internalID: 8704765903354274102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 421
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8971d6d723e5dc8a0800000000000000
+      internalID: -6283262334166296680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_31
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 416
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8bce1faeeab750800000000000000
+      internalID: 6321627462871255764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_32
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 414
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664776fa62b054820800000000000000
+      internalID: 2901737795689608294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 423
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0692ea991f9c700800000000000000
+      internalID: 561245270938575052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_34
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 418
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf15d8f3d550aeb30800000000000000
+      internalID: 4317269090844365308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_35
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 417
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723ecaa362b07300800000000000000
+      internalID: 247894120642523774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 392
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09d031ee3fbd4600800000000000000
+      internalID: 454229414221240588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 389
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53538ea08a94a5570800000000000000
+      internalID: 8456152236427851061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 386
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d512dc77ad0c9e940800000000000000
+      internalID: 5326000078887657821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 390
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf50a1fcc3b8ecc0800000000000000
+      internalID: -3681495002566860881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 389
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cabf2dfb17ff500800000000000000
+      internalID: 432189157943258209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_41
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 386
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93c9eb2672d6b360800000000000000
+      internalID: 7185161660500919199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 389
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3161f1b4dd26449e0800000000000000
+      internalID: -1638075661868394989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_43
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 387
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be26ba45f5e31800800000000000000
+      internalID: 582061618544127672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_44
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 385
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129aa034854a6eec0800000000000000
+      internalID: -3537959758264096479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 390
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176f5b4555527a820800000000000000
+      internalID: 2929351131051456113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 389
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f5d9b45f877d400800000000000000
+      internalID: 348880491075428235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 385
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002439f1df04b0a30800000000000000
+      internalID: 4182508134844285440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 359
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1816f7a6bfa9fd80800000000000000
+      internalID: -8216342846123927522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 358
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e657dcf49fa3aec0800000000000000
+      internalID: -3556806226260568345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 359
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbddcdce60043000800000000000000
+      internalID: 14637174688177101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 348
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fd669ffcd611950800000000000000
+      internalID: 6418031683989594015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 349
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9363b5f95c45800800000000000000
+      internalID: 600321938567870949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_53
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 349
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab7410763bc1950800000000000000
+      internalID: 6421204423707966025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_54
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 352
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08e01559dedd490800000000000000
+      internalID: -7719752960677347145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 371
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905b862d85a5874f0800000000000000
+      internalID: -830814793716157175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_56
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 359
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ce60c43d1e3e560800000000000000
+      internalID: 7341960115173911675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_57
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 323
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e8058ed10960290800000000000000
+      internalID: -7924488036185764205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_58
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 352
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42892de4ccec6f960800000000000000
+      internalID: 7635517595144329252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 361
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf29db297746cd880800000000000000
+      internalID: -8584876324949224708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 325
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df82590fad8bff10800000000000000
+      internalID: 2304591417245339608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 325
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7014d9b75c530f8e0800000000000000
+      internalID: -1661769140200980217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_62
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 326
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96abfa1f3ecbb180800000000000000
+      internalID: -9098451851740993889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 291
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f1c2c62bb2e1b60800000000000000
+      internalID: 7718654856678612797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d68e682fc62ce0800000000000000
+      internalID: -1430228059083581477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_65
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 313
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9920c3f745cb6b860800000000000000
+      internalID: 7545425296803758745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 326
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20244a0d206920170800000000000000
+      internalID: 8143236015073804802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 326
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50a5b212b4479b40800000000000000
+      internalID: 5446897805936664666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_68
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 316
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c603578a6e2ffb40800000000000000
+      internalID: 5476146706977588935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_69
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 326
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62672ab7081cd0c30800000000000000
+      internalID: 4327327574547133990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 314
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abf7b8836badcec0800000000000000
+      internalID: -3544988887686841437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_71
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 280
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964a8bcede6fbad0800000000000000
+      internalID: -2684304949712894310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 296
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b7bc832cc52d020800000000000000
+      internalID: 2365054743569201969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_73
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 295
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b8be7c0fe6e3c20800000000000000
+      internalID: 3188107566650198939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 294
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98e84aa3d9623df0800000000000000
+      internalID: -201982675462330214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_75
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 292
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ad4bb02e659290800000000000000
+      internalID: -7884274485781749605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_76
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 274
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cc64e67f4df59d0800000000000000
+      internalID: -2783271885519532937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 276
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fdf2ad7e822fba0800000000000000
+      internalID: -6056733572596768996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_78
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 276
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397756097eb5619c0800000000000000
+      internalID: -3956874172480260205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_79
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 249
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10270e3b06490cdc0800000000000000
+      internalID: -3620730957350276607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_80
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 285
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e552051e9c6cc60800000000000000
+      internalID: 7838174171034377760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_81
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 262
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228982f8be29d84f0800000000000000
+      internalID: -824841616322160606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_82
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 261
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51fd48f8f09ae6f0800000000000000
+      internalID: -654551396836839074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_83
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 264
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea80c541fb7b9f70800000000000000
+      internalID: 9195079340394580715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_84
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 261
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2d3c1b731c5890800000000000000
+      internalID: -7468072662611449155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_85
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 268
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834edf06ce4ba4110800000000000000
+      internalID: 1246007174253896760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_86
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 237
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d5e97d823182810800000000000000
+      internalID: 1740662322115796263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_87
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 240
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d6bb9d25ff38240800000000000000
+      internalID: 4792955159757679911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_88
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 243
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06c4e6893a4ac000800000000000000
+      internalID: 56939556232283662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_89
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 254
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74e70055f2c72270800000000000000
+      internalID: 8225757603280970878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_90
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 264
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7099a95885677c0800000000000000
+      internalID: -4073971482062419988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 202
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d04fa2332a66ad0800000000000000
+      internalID: -2709299785169105656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_92
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 224
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753fb2c69b9cf1af0800000000000000
+      internalID: -423398041728584873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_93
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 233
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0cc926278f450a0800000000000000
+      internalID: -6893611959432986404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_94
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 197
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b080a1e3fe211a0800000000000000
+      internalID: -6840141834018616442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_95
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 217
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf583045253759f0800000000000000
+      internalID: -479856401184170043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 181
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4a6f77d68c2b3c0800000000000000
+      internalID: -4345190317969464092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 219
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19de27beb65ffa70800000000000000
+      internalID: 8862897968805501215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_98
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 232
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453555b49ccdec380800000000000000
+      internalID: -8948972652428176556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_99
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 203
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8993a97f560b2a700800000000000000
+      internalID: 550196056484886936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_100
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 206
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8f8bee58b189910800000000000000
+      internalID: 1844254309457918148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_101
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 170
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b578c0ee9e25300800000000000000
+      internalID: 239510938825743119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_102
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 198
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b19ad8cb6002b30800000000000000
+      internalID: 4260412654392777548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 158
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8b1c86f3143bb0800000000000000
+      internalID: -4957315340194575484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_104
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 210
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bb5c8d41a995dd0800000000000000
+      internalID: -2496795104073368755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34785239497da94c0800000000000000
+      internalID: -4279871462738393277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_106
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 143
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457c3028b31a8aa0800000000000000
+      internalID: -6158087858939988660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_107
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 133
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47faa68e284d26a70800000000000000
+      internalID: 8818844679054995316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_108
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 186
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1abf1d4a09f2b8d0800000000000000
+      internalID: -2831927393023706597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_109
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 186
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8c2bc366beac470800000000000000
+      internalID: 8415797678032734383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_110
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 171
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7539fdaca50692840800000000000000
+      internalID: 5199793187842921303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_111
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 128
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1937c72f107bd020800000000000000
+      internalID: 2367609308226992414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_112
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6db901fdff42950800000000000000
+      internalID: 6423540302058608339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_113
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 169
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84203f9d114635b0800000000000000
+      internalID: -5389048308621630324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_114
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 153
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c4ae2912dffc50800000000000000
+      internalID: 6701305776149153220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_115
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 137
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8ce3c25d3f2a480800000000000000
+      internalID: -8889274617580042052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_116
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 141
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c53c1237d2ad80800000000000000
+      internalID: -8240787757912964395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_117
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 148
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae78b80f436bb840800000000000000
+      internalID: 5240891782475579048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_118
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 107
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253dc5e87f38050a0800000000000000
+      internalID: -6894865930235620526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 119
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d606b6093d8bd90800000000000000
+      internalID: -7081677796809872078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 100
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8034c6e328f51690800000000000000
+      internalID: -7631921160430276468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_121
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 104
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3a93386a9b4d440800000000000000
+      internalID: 4959793214459061153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d6d63becd812c90800000000000000
+      internalID: -7196314810648269512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_123
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 98
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd504aaa682c31260800000000000000
+      internalID: 7067206123918722525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_124
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 92
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb1f9cd0e6ceda40800000000000000
+      internalID: 5394968072712821692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_125
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 66
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c5211b1aba5ba50800000000000000
+      internalID: 6536319145146997781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_126
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 103
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae2b4c0885ec8a10800000000000000
+      internalID: 1913156314210184874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_127
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 104
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b3324e3b943f940800000000000000
+      internalID: 5328683821084916549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_128
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 66
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c715e08c089bc6c10800000000000000
+      internalID: 2048215893310067068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_129
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db56ddcae612d4a30800000000000000
+      internalID: 4201050786636850621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_130
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 71
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8feac307d2a46240800000000000000
+      internalID: 4784127748539608975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_131
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 63
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ab5a5a751e8dfb0800000000000000
+      internalID: -4622697250938308057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_132
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 48
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fdb58fae1629390800000000000000
+      internalID: -7813074741717377242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_133
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 72
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63450c8dbbba6c7d0800000000000000
+      internalID: -2898440486882618314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_134
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 42
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f535d908959cb0800000000000000
+      internalID: -4857809455050002103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_135
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a86411ac076e60800000000000000
+      internalID: 7955341152744939714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_136
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 51
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedf9684f5b86a360800000000000000
+      internalID: 7180579897241894383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_137
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 54
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c322db51ac212f7f0800000000000000
+      internalID: -580380742819962308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_138
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 46
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bcad942402af1b0800000000000000
+      internalID: -5622145715739636909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_139
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 29
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cd02004d0a4f940800000000000000
+      internalID: 5329061091481803882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_140
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 34
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7a1cf0e79e7cc70800000000000000
+      internalID: 8991411908707985331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_141
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 9
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72721787fed3d5790800000000000000
+      internalID: -7539802102421182681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_142
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1683bc1b7f80640800000000000000
+      internalID: 5046555725459382778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_143
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 44
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636208c43acbb0d20800000000000000
+      internalID: 3245895365999732278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_144
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabdf59daaed39ec0800000000000000
+      internalID: -3561258054947185746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_145
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1338ad250f3108330800000000000000
+      internalID: 3710988015856419633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_146
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc29dcacc2a9b44a0800000000000000
+      internalID: -6608018511064362293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_147
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aff083963dd8e9c0800000000000000
+      internalID: -3897622251016487008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_148
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a19b926e417f660800000000000000
+      internalID: 7419421889891211921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_149
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fffdd043bc112040800000000000000
+      internalID: 4621006248871854071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_150
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 17
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1e3a223e910de30800000000000000
+      internalID: 4526146088836784580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_151
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 5
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5e154d1098bc1b0800000000000000
+      internalID: -5635259867773934128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_152
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 17
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f11b7553935c0580800000000000000
+      internalID: -8859614474685181451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_153
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91074b5b6518ca930800000000000000
+      internalID: 4155838765571797017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_154
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac23f78127886e90800000000000000
+      internalID: -7032222240054498129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_155
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a056022e0731e80d0800000000000000
+      internalID: -3418773691576589046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_156
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde3b974a8ea96660800000000000000
+      internalID: 7379621373353344733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_157
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a44bf960fdf4e60800000000000000
+      internalID: 7948817086874405382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_158
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827645586575a6620800000000000000
+      internalID: 2768120950088296232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_159
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3b4a28fa1704600800000000000000
+      internalID: 450484961362097117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset naturaleza_160
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c127faeb90b4c7b90800000000000000
+      internalID: -7242831595492642276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1308 @@
+fileFormatVersion: 2
+guid: 84bcfc1c0e14990469726dab529a57ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -715726339335313072
+    second: MiradorOceano_0
+  - first:
+      213: 261018722187914938
+    second: MiradorOceano_1
+  - first:
+      213: -1805106898225584983
+    second: MiradorOceano_2
+  - first:
+      213: 8815203494188775340
+    second: MiradorOceano_3
+  - first:
+      213: 4481507713816783393
+    second: MiradorOceano_4
+  - first:
+      213: -2250268702278072153
+    second: MiradorOceano_5
+  - first:
+      213: 6332110629789572420
+    second: MiradorOceano_6
+  - first:
+      213: 4024484806789922803
+    second: MiradorOceano_7
+  - first:
+      213: 4292374966550265436
+    second: MiradorOceano_8
+  - first:
+      213: -5275638484814974781
+    second: MiradorOceano_9
+  - first:
+      213: -7184311178310450492
+    second: MiradorOceano_10
+  - first:
+      213: 6531597300092184631
+    second: MiradorOceano_11
+  - first:
+      213: -5484456990007294686
+    second: MiradorOceano_12
+  - first:
+      213: -68176982848371879
+    second: MiradorOceano_13
+  - first:
+      213: -3422508643182449102
+    second: MiradorOceano_14
+  - first:
+      213: -5917446966548921931
+    second: MiradorOceano_15
+  - first:
+      213: -6272517377883333173
+    second: MiradorOceano_16
+  - first:
+      213: -8231011206176172115
+    second: MiradorOceano_17
+  - first:
+      213: 6710418466661045345
+    second: MiradorOceano_18
+  - first:
+      213: -5823961402639341088
+    second: MiradorOceano_19
+  - first:
+      213: -5221637031697381778
+    second: MiradorOceano_20
+  - first:
+      213: -7905738230726936307
+    second: MiradorOceano_21
+  - first:
+      213: -5124605094306279991
+    second: MiradorOceano_22
+  - first:
+      213: 3064316933188572386
+    second: MiradorOceano_23
+  - first:
+      213: -4807443056187436710
+    second: MiradorOceano_24
+  - first:
+      213: 6516165154064422657
+    second: MiradorOceano_25
+  - first:
+      213: 6247858598606742372
+    second: MiradorOceano_26
+  - first:
+      213: -1866544070042999692
+    second: MiradorOceano_27
+  - first:
+      213: 3468287176435607618
+    second: MiradorOceano_28
+  - first:
+      213: 7055086307446926256
+    second: MiradorOceano_29
+  - first:
+      213: -5322379379174760719
+    second: MiradorOceano_30
+  - first:
+      213: 7240804817691895212
+    second: MiradorOceano_31
+  - first:
+      213: 7959730441356222418
+    second: MiradorOceano_32
+  - first:
+      213: -6295135354708153162
+    second: MiradorOceano_33
+  - first:
+      213: 8462136159878550554
+    second: MiradorOceano_34
+  - first:
+      213: 5751533596754379091
+    second: MiradorOceano_35
+  - first:
+      213: 8717913065768492
+    second: MiradorOceano_36
+  - first:
+      213: -4797500012484998906
+    second: MiradorOceano_37
+  - first:
+      213: 1257072025561558032
+    second: MiradorOceano_38
+  - first:
+      213: 1166611802129130411
+    second: MiradorOceano_39
+  - first:
+      213: -1496344113868562816
+    second: MiradorOceano_40
+  - first:
+      213: 1002908003682736833
+    second: MiradorOceano_41
+  - first:
+      213: -1832237814145488494
+    second: MiradorOceano_42
+  - first:
+      213: -2786957886948129150
+    second: MiradorOceano_43
+  - first:
+      213: -7408683528244152435
+    second: MiradorOceano_44
+  - first:
+      213: -3347572804505799435
+    second: MiradorOceano_45
+  - first:
+      213: 3293851218577397971
+    second: MiradorOceano_46
+  - first:
+      213: -3106488508398250689
+    second: MiradorOceano_47
+  - first:
+      213: 9053615239245011832
+    second: MiradorOceano_48
+  - first:
+      213: 4204813654553097893
+    second: MiradorOceano_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiradorOceano_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 910
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059278bbfaa3116f0800000000000000
+      internalID: -715726339335313072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 910
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeacb715235f9300800000000000000
+      internalID: 261018722187914938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 910
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a428a507d8f2f6e0800000000000000
+      internalID: -1805106898225584983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 780
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca777ed7fd4e55a70800000000000000
+      internalID: 8815203494188775340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 780
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ae83c8583813e30800000000000000
+      internalID: 4481507713816783393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 780
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84987a98075c0e0800000000000000
+      internalID: -2250268702278072153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 650
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d151f911d20e750800000000000000
+      internalID: 6332110629789572420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 520
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff7ba0fb97d9d730800000000000000
+      internalID: 4024484806789922803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_8
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 520
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ef1044a44919b30800000000000000
+      internalID: 4292374966550265436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 520
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c03935efba29c6b0800000000000000
+      internalID: -5275638484814974781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 390
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c200f42c033c4c90800000000000000
+      internalID: -7184311178310450492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 400
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73825e77325e4aa50800000000000000
+      internalID: 6531597300092184631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_12
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22505bcec6b43e3b0800000000000000
+      internalID: -5484456990007294686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95307733569cd0ff0800000000000000
+      internalID: -68176982848371879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ee762b58ec080d0800000000000000
+      internalID: -3422508643182449102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_15
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 390
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b183adf55101eda0800000000000000
+      internalID: -5917446966548921931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_16
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 400
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd9cc39daa83f8a0800000000000000
+      internalID: -6272517377883333173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da71c91fae295cd80800000000000000
+      internalID: -8231011206176172115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_18
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1649d87ca02302d50800000000000000
+      internalID: 6710418466661045345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_19
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 390
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a81206f12d2fa0800000000000000
+      internalID: -5823961402639341088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6607abf8c40987b0800000000000000
+      internalID: -5221637031697381778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 265
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09bb4e27fc294290800000000000000
+      internalID: -7905738230726936307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 275
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd87bb61deb1e8b0800000000000000
+      internalID: -5124605094306279991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_23
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 265
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e45be9e304a68a20800000000000000
+      internalID: 3064316933188572386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_24
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 265
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a519706e208884db0800000000000000
+      internalID: -4807443056187436710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_25
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 260
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d9c9fea11e6a50800000000000000
+      internalID: 6516165154064422657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_26
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 260
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46323d8fa4ad4b650800000000000000
+      internalID: 6247858598606742372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_27
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 270
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474a973ce04b816e0800000000000000
+      internalID: -1866544070042999692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_28
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 270
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ac7aafc4d12030800000000000000
+      internalID: 3468287176435607618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_29
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 265
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bba81ffd93b8e160800000000000000
+      internalID: 7055086307446926256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 140
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe9c60672c1326b0800000000000000
+      internalID: -5322379379174760719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 140
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca566764e918c7460800000000000000
+      internalID: 7240804817691895212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 140
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df96e8f9a4a67e60800000000000000
+      internalID: 7959730441356222418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_33
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 140
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc2e997fbf23a8a0800000000000000
+      internalID: -6295135354708153162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_34
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 140
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a149c8ac00c8f6570800000000000000
+      internalID: 8462136159878550554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_35
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 140
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3510544555d81df40800000000000000
+      internalID: 5751533596754379091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_36
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 140
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26c77f45e8fe1000800000000000000
+      internalID: 8717913065768492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_37
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 140
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60946e9282bdb6db0800000000000000
+      internalID: -4797500012484998906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_38
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 135
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c6da4d854027110800000000000000
+      internalID: 1257072025561558032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_39
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 140
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba36fa8c043a03010800000000000000
+      internalID: 1166611802129130411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e1e17d4faeb3be0800000000000000
+      internalID: -1496344113868562816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cad7e5048b0bed00800000000000000
+      internalID: 1002908003682736833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_42
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299e1d76a659296e0800000000000000
+      internalID: -1832237814145488494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_43
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286cb78519cb259d0800000000000000
+      internalID: -2786957886948129150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_44
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8738bd75911f2990800000000000000
+      internalID: -7408683528244152435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_45
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 5
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f47caf35480b81d0800000000000000
+      internalID: -3347572804505799435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_46
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 5
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d81b425b3c16bd20800000000000000
+      internalID: 3293851218577397971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_47
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 15
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d616192983e4d0800000000000000
+      internalID: -3106488508398250689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_48
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 5
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b134c8717e4ad70800000000000000
+      internalID: 9053615239245011832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiradorOceano_49
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a67952adbf7a5a30800000000000000
+      internalID: 4204813654553097893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
